@@ -3,8 +3,10 @@
 - Responsive video background
 
 
-## ScreenShots Below 👇
+ScreenShots Below 👇
+
+![screenshot](https://github.com/blackcodding/Responsive-form-validator/blob/main/Form%20Responsive.JPG)
 
 ![screenshot](https://github.com/blackcodding/Responsive-form-validator/blob/main/Form.JPG)
 
-![screenshot](https://github.com/blackcodding/Responsive-form-validator/blob/main/Form%20Responsive.JPG)
+
